@@ -1,4 +1,4 @@
-# Gastro Leinefelde Menu Parser
+# Gastro Menu Parser
 
 Konsolenanwendung zum Parsen des täglichen Menüs von `essen-auf-raedern-eichsfeld.de`.
 
