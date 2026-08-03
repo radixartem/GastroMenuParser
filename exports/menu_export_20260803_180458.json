@@ -1,0 +1,173 @@
+[
+  {
+    "category": "Angebot des Tages",
+    "name": "Putenrahmgeschnetzeltes mit Champignons und Kartoffeln, dazu Dessert \u002B Getr\u00E4nk",
+    "price": 8.70,
+    "status": "Angebot",
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Angebot des Tages",
+    "name": "Schlemmerfischfilet mit Sauce und Kartoffeln, dazu Salat",
+    "price": 8.30,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Angebot des Tages",
+    "name": "Eier in Schnittlauchsauce mit Kartoffeln und Salat",
+    "price": 7.60,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Angebot des Tages",
+    "name": "Nudeln Bolognese, mit Salat o. Dessert",
+    "price": 7.80,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Angebot des Tages",
+    "name": "Brathering, Bratkartoffeln, Salar",
+    "price": 7.90,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Angebot des Tages",
+    "name": "Linseneintopf mit Wurstw\u00FCrfel, Br\u00F6tchen, Dessert",
+    "price": 5.80,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Hausg. Schweineschnitzel verschiedene Variationen",
+    "price": 8.40,
+    "status": null,
+    "preparationTime": "3 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Schweinesteak verschiedene Variationen, S\u00E4ttigungsbeilage",
+    "price": 8.05,
+    "status": null,
+    "preparationTime": "5 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Schweinegulasch, Nudeln, Salat",
+    "price": 8.10,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Rostbr\u00E4tl, Zwiebelsauce, Bratkartoffeln, Salat",
+    "price": 8.05,
+    "status": null,
+    "preparationTime": "5 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "H\u00E4hnchenschnitzel verschiedene Variationen",
+    "price": 8.80,
+    "status": null,
+    "preparationTime": "3 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Eichsfelder Schlachtebratwurst, Sauce, Sauerkraut, Kartoffeln",
+    "price": 8.00,
+    "status": null,
+    "preparationTime": "5 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Bockwurst mit Kartoffelsalat, Salat",
+    "price": 6.60,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Seelachsfilet Kartoffeln, Sauce, Salat",
+    "price": 8.30,
+    "status": null,
+    "preparationTime": "5 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Soljanka/Gulaschsuppe, Br\u00F6tchen, Dessert",
+    "price": 5.80,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "S\u00FClze, Bratkartoffeln, Remouladensauce, Salat",
+    "price": 7.40,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Kr\u00E4uterquark, Kartoffeln, Salat",
+    "price": 6.95,
+    "status": null,
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Matjesfilet in Apfelzwiebelsauce, Kartoffeln, Salat",
+    "price": 8.05,
+    "status": "Ausverkauft",
+    "preparationTime": null,
+    "date": null,
+    "dayOfWeek": null
+  },
+  {
+    "category": "Unsere Klassiker",
+    "name": "Kartoffelpuffer mit Apfelmus",
+    "price": 6.00,
+    "status": null,
+    "preparationTime": "5 Minuten",
+    "date": null,
+    "dayOfWeek": null
+  }
+]
